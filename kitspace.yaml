@@ -1,6 +1,5 @@
 bom: acquisition_board/1-click-bom.csv
-gerbers: acquisition_board/
+gerbers: acquisition_board/gerber/
 summary: "pyPhotometry is a system of open source hardware and software for 
-neuroscience fiber photometry data acquisition.  
-For more information see: https://pyphotometry.readthedocs.io"
-site: https://github.com/Sussex-Neuroscience/pyphotometry-hardware/
+neuroscience fiber photometry data acquisition."
+site: https://pyphotometry.readthedocs.io
